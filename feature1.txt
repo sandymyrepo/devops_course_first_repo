@@ -1,0 +1,1 @@
+this is change in file i am doing for git commit --amend
